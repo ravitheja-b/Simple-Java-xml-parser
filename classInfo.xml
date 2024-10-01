@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<class>
+   <student rollNo="1">
+      <firstName>Prabhjot</firstName>
+      <lastName>Kaur</lastName>
+      <marks>85</marks>
+   </student>
+   <student rollNo="2">
+      <firstName>Nidhi</firstName>
+      <lastName>Gupta</lastName>
+      <marks>88</marks>
+   </student>
+</class>
